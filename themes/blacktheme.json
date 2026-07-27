@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "name": "Spotify Dark Theme",
+  "author": "visa",
+  "description": "amoled/black theme based around spotify's colours.",
+  "tags": [
+    "amoled",
+    "black",
+    "spotify"
+  ],
+  "palette": [
+    "#000000",
+    "#121212",
+    "#1db954",
+    "#ffffff"
+  ],
+  "vars": {
+    "background": "#000000",
+    "background-secondary": "#121212",
+    "background-input": "#242424",
+    "foreground": "#ffffff",
+    "foreground-secondary": "#b3b3b3",
+    "foreground-input": "#ffffff",
+    "primary": "#1db954",
+    "border": "#282828",
+    "border-input": "#333333",
+    "ring": "#1db954",
+    "accent-green": "#1db954",
+    "accent-yellow": "#f59e0b",
+    "accent-purple": "#a855f7",
+    "accent-blue": "#3b82f6",
+    "accent-orange": "#f97316",
+    "accent-cyan": "#06b6d4",
+    "accent-red": "#e91429",
+    "border-width": "1px",
+    "shadow-color": "#000000",
+    "shadow-x": "0px",
+    "shadow-y": "4px",
+    "shadow-blur": "12px",
+    "font-family": "'Circular', 'DM Sans', system-ui, -apple-system, sans-serif",
+    "font-family-heading": "'Circular', 'Bricolage Grotesque', sans-serif",
+    "font-family-mono": "'Space Mono', monospace",
+    "font-weight-normal": "400",
+    "font-weight-bold": "700",
+    "font-weight-extra-bold": "800",
+    "radius-sm": "4px",
+    "radius-md": "8px",
+    "radius-lg": "12px"
+  },
+  "dark": {
+    "background": "#000000",
+    "background-secondary": "#121212",
+    "background-input": "#242424",
+    "foreground": "#ffffff",
+    "foreground-secondary": "#b3b3b3",
+    "foreground-input": "#ffffff",
+    "primary": "#1db954",
+    "border": "#282828",
+    "border-width": "1px",
+    "shadow-x": "0px",
+    "shadow-y": "0px"
+  }
+}
