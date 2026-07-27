@@ -2,6 +2,24 @@
   "version": 1,
   "themes": [
     {
+      "id": "blacktheme",
+      "name": "Spotify Dark Theme",
+      "description": "amoled/black theme based around spotify's colours.",
+      "author": "visa",
+      "tags": [
+        "amoled",
+        "black",
+        "spotify"
+      ],
+      "palette": [
+        "#000000",
+        "#121212",
+        "#1db954",
+        "#ffffff"
+      ],
+      "path": "themes/blacktheme.json"
+    },
+    {
       "id": "claude",
       "name": "Claude",
       "description": "Warm, understated tones inspired by Anthropic's Claude",
@@ -107,6 +125,25 @@
         "oklch(0.34 0.007 48)"
       ],
       "path": "themes/gruvbox.json"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "description": "Nord palette with its carateristic bluish accents",
+      "author": "DarkWister",
+      "tags": [
+        "dark",
+        "light",
+        "blue",
+        "minimal"
+      ],
+      "palette": [
+        "oklch(0.6965 0.0591 248.69)",
+        "oklch(0.933 0.0104 261.79)",
+        "oklch(0.3244 0.0229 264.18)",
+        "oklch(0.90 0.008 342)"
+      ],
+      "path": "themes/nord.json"
     },
     {
       "id": "one-dark",
