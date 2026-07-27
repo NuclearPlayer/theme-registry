@@ -127,6 +127,24 @@
       "path": "themes/one-dark.json"
     },
     {
+      "id": "onedarkblue",
+      "name": "One Dark Blue",
+      "description": "Dark blue modern theme for Nuclear",
+      "author": "dervarex",
+      "tags": [
+        "dark",
+        "blue",
+        "modern"
+      ],
+      "palette": [
+        "oklch(0.22 0.02 260)",
+        "oklch(0.62 0.12 250)",
+        "oklch(0.70 0.16 310)",
+        "oklch(0.78 0.12 140)"
+      ],
+      "path": "themes/onedarkblue.json"
+    },
+    {
       "id": "rose-pine",
       "name": "Rosé Pine",
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
