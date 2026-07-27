@@ -145,6 +145,25 @@
       "path": "themes/onedarkblue.json"
     },
     {
+      "id": "pixel",
+      "name": "Pixel",
+      "description": "A grayscale theme with pixel art fonts. Requires 'Able 5' and 'Pixel Digivolve Italic' fonts installed on the system.",
+      "author": "aitorllj93",
+      "tags": [
+        "minimal",
+        "monochrome",
+        "grayscale",
+        "pixel-art"
+      ],
+      "palette": [
+        "oklch(0.9112 0.0325 95.42)",
+        "oklch(0.3102 0.0113 84.59)",
+        "oklch(0.6303 0.0168 90.30)",
+        "oklch(0.4058 0.0186 90.39)"
+      ],
+      "path": "themes/pixel.json"
+    },
+    {
       "id": "rose-pine",
       "name": "Rosé Pine",
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
