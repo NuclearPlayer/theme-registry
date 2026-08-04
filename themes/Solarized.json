@@ -4,6 +4,12 @@
   "author": "Ethan Schoonover",
   "description": "Precision colors for machines and people",
   "tags":["dark", "light", "green", "blue", "solarized"],
+  "palette": [
+    "#002b36",
+    "#fdf6e3",
+    "#268bd2",
+    "#b58900"
+  ],
   "vars": {
     "background": "#fdf6e3",
     "background-secondary": "#eee8d5",
