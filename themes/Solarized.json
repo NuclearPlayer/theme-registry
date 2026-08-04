@@ -1,6 +1,9 @@
 {
   "version": 1,
   "name": "Solarized",
+  "author": "Ethan Schoonover",
+  "description": "Precision colors for machines and people",
+  "tags":["dark", "light", "green", "blue", "solarized"],
   "vars": {
     "background": "#fdf6e3",
     "background-secondary": "#eee8d5",
