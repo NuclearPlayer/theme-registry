@@ -144,6 +144,28 @@
       "path": "themes/gruvbox.json"
     },
     {
+      "id": "neon-violet-pink",
+      "name": "Neon Violet-Pink Duo",
+      "description": "Dual-mode theme: soft pastel light version and smooth dark version with reduced brightness for comfortable viewing.",
+      "author": "xoteqh",
+      "tags": [
+        "duo",
+        "light",
+        "dark",
+        "purple",
+        "pink",
+        "violet",
+        "neon"
+      ],
+      "palette": [
+        "oklch(95% 0.02 320)",
+        "oklch(65% 0.12 340)",
+        "oklch(10% 0.03 290)",
+        "oklch(45% 0.18 340)"
+      ],
+      "path": "themes/neon-violet-pink.json"
+    },
+    {
       "id": "nord",
       "name": "Nord",
       "description": "Nord palette with its carateristic bluish accents",

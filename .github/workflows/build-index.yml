@@ -36,3 +36,8 @@ jobs:
           git add themes.json
           git commit -m "Regenerate themes.json"
           git push
+
+      - name: Purge jsDelivr cache
+        uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: https://cdn.jsdelivr.net/gh/NuclearPlayer/theme-registry@master/themes.json
