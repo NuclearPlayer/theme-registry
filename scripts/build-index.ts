@@ -1,5 +1,5 @@
 import { readdir } from 'node:fs/promises';
-import { THEMES_DIR, INDEX_FILE, INDEX_VERSION } from './config';
+import { THEMES_DIR, INDEX_FILE, INDEX_VERSION, themeIdFromFileName } from './config';
 import type { ThemeFile, ThemeIndexEntry, ThemeIndex } from './types';
 
 const REQUIRED_FIELDS = ['name', 'description', 'author', 'tags', 'palette'] as const;
@@ -7,7 +7,7 @@ const REQUIRED_FIELDS = ['name', 'description', 'author', 'tags', 'palette'] as 
 const parseThemeFile = async (file: string): Promise<ThemeIndexEntry> => {
   const filePath = `${THEMES_DIR}/${file}`;
   const theme: ThemeFile = await Bun.file(filePath).json();
-  const id = file.replace(/\.json$/, '');
+  const id = themeIdFromFileName(file);
 
   const missingFields = REQUIRED_FIELDS.filter((field) => theme[field] === undefined);
   if (missingFields.length) {

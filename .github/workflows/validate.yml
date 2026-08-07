@@ -5,6 +5,8 @@ on:
     paths:
       - 'themes/**'
       - 'themes.json'
+      - 'schema/**'
+      - 'scripts/**'
 
 jobs:
   validate:
