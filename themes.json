@@ -76,6 +76,23 @@
       "path": "themes/cotton-candy.json"
     },
     {
+      "id": "deep-black",
+      "name": "Deep Black",
+      "description": "Premium pitch-black theme with high contrast elements.",
+      "author": "xoteqh",
+      "tags": [
+        "dark",
+        "black"
+      ],
+      "palette": [
+        "oklch(6% 0 0)",
+        "oklch(12% 0 0)",
+        "oklch(98% 0 0)",
+        "oklch(30% 0 0)"
+      ],
+      "path": "themes/deep-black.json"
+    },
+    {
       "id": "dracula",
       "name": "Dracula",
       "description": "The famous dark theme by Zeno Rocha, with Alucard light mode",
