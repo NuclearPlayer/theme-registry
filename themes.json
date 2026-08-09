@@ -185,6 +185,26 @@
       "path": "themes/nord.json"
     },
     {
+      "id": "ocean-glow",
+      "name": "Ocean Glow",
+      "description": "Soft pastel blue meets deep neon vibes",
+      "author": "xoteqh",
+      "tags": [
+        "light",
+        "dark",
+        "blue",
+        "ocean",
+        "glow"
+      ],
+      "palette": [
+        "oklch(91% 0.04 210)",
+        "oklch(48% 0.16 208)",
+        "oklch(8% 0.03 235)",
+        "oklch(55% 0.20 210)"
+      ],
+      "path": "themes/ocean-glow.json"
+    },
+    {
       "id": "one-dark",
       "name": "One Dark",
       "description": "Atom editor's iconic blue-tinted dark theme",
@@ -238,6 +258,26 @@
         "oklch(0.4058 0.0186 90.39)"
       ],
       "path": "themes/pixel.json"
+    },
+    {
+      "id": "purple-void",
+      "name": "Purple Void",
+      "description": "Pure darkness meeting a sharp, neon-purple void.",
+      "author": "xoteqh",
+      "tags": [
+        "dark",
+        "violet",
+        "neon",
+        "glow",
+        "void"
+      ],
+      "palette": [
+        "oklch(4% 0.02 290)",
+        "oklch(45% 0.25 290)",
+        "oklch(92% 0.05 300)",
+        "oklch(55% 0.30 285)"
+      ],
+      "path": "themes/purple-void.json"
     },
     {
       "id": "rose-pine",
