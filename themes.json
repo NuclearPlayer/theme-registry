@@ -56,6 +56,25 @@
       "path": "themes/cotton-candy.json"
     },
     {
+      "id": "daydream",
+      "name": "Daydream",
+      "description": "Deep velvet tones for late nights",
+      "author": "xoteqh",
+      "tags": [
+        "light",
+        "dark",
+        "bloom",
+        "minimal"
+      ],
+      "palette": [
+        "oklch(96% 0.01 0)",
+        "oklch(45% 0.02 0)",
+        "oklch(8% 0.01 0)",
+        "oklch(35% 0.015 0)"
+      ],
+      "path": "themes/daydream.json"
+    },
+    {
       "id": "deep-black",
       "name": "Deep Black",
       "description": "Premium pitch-black theme with high contrast elements.",
