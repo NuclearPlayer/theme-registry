@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "name": "Claude",
+  "author": "nukeop",
+  "description": "Warm, understated tones inspired by Anthropic's Claude",
+  "tags": ["warm", "minimal", "clean"],
+  "palette": [
+    "oklch(0.97 0.009 100)",
+    "oklch(0.31 0.003 107)",
+    "oklch(0.68 0.145 40)",
+    "oklch(0.51 0.126 257)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.97 0.009 100)",
+    "foreground": "oklch(0.19 0.002 107)",
+
+    "muted": "oklch(1.00 0 0)",
+    "muted-foreground": "oklch(0.36 0.005 107)",
+
+    "card": "oklch(0.955 0.007 95)",
+    "card-foreground": "oklch(0.19 0.002 107)",
+
+    "popover": "oklch(0.975 0.006 95)",
+    "popover-foreground": "oklch(0.19 0.002 107)",
+
+    "input": "oklch(0.98 0.005 95)",
+    "input-foreground": "oklch(0.19 0.002 107)",
+
+    "primary": "oklch(0.68 0.145 40)",
+    "primary-foreground": "oklch(0.15 0.005 40)",
+    "primary-gradient": "linear-gradient(135deg, oklch(0.70 0.14 42), oklch(0.65 0.155 36))",
+
+    "accent-green": "oklch(0.65 0.14 140)",
+    "accent-yellow": "oklch(0.82 0.10 89)",
+    "accent-purple": "oklch(0.60 0.135 40)",
+    "accent-blue": "oklch(0.51 0.126 257)",
+    "accent-orange": "oklch(0.67 0.131 39)",
+    "accent-cyan": "oklch(0.51 0.126 257)",
+    "accent-red": "oklch(0.63 0.173 24)",
+
+    "accent-green-foreground": "oklch(0.13 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.10 0 0)",
+    "accent-blue-foreground": "oklch(0.99 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.99 0 0)",
+    "accent-red-foreground": "oklch(0.10 0.01 24)",
+
+    "border": "oklch(0.45 0.008 100)",
+    "border-width": "1px",
+    "ring": "oklch(0.60 0.135 40)",
+    "overlay": "oklch(0.15 0.005 40 / 0.45)",
+
+    "shadow-color": "oklch(0.45 0.008 100)",
+    "shadow-x": "0px",
+    "shadow-y": "1px",
+    "shadow-blur": "3px",
+
+    "font-family": "'Inter', 'DM Sans', system-ui, sans-serif",
+    "font-family-heading": "'Inter', 'DM Sans', system-ui, sans-serif",
+    "font-weight-normal": "400",
+    "font-weight-bold": "600",
+    "font-weight-extra-bold": "700",
+
+    "radius-sm": "6px",
+    "radius-md": "10px",
+    "radius-lg": "14px"
+  },
+
+  "dark": {
+    "background": "oklch(0.26 0.008 80)",
+    "foreground": "oklch(0.95 0.008 95)",
+
+    "muted": "oklch(0.22 0.006 85)",
+    "muted-foreground": "oklch(0.75 0.015 95)",
+
+    "card": "oklch(0.30 0.008 85)",
+    "card-foreground": "oklch(0.93 0.006 95)",
+
+    "popover": "oklch(0.32 0.009 85)",
+    "popover-foreground": "oklch(0.93 0.006 95)",
+
+    "input": "oklch(0.19 0.004 85)",
+    "input-foreground": "oklch(0.95 0.008 95)",
+
+    "primary": "oklch(0.67 0.131 39)",
+    "primary-foreground": "oklch(0.15 0.005 40)",
+    "primary-gradient": "linear-gradient(135deg, oklch(0.69 0.125 42), oklch(0.64 0.14 36))",
+
+    "accent-green": "oklch(0.65 0.14 140)",
+    "accent-yellow": "oklch(0.82 0.10 89)",
+    "accent-purple": "oklch(0.60 0.135 40)",
+    "accent-blue": "oklch(0.51 0.126 257)",
+    "accent-orange": "oklch(0.67 0.131 39)",
+    "accent-cyan": "oklch(0.51 0.126 257)",
+    "accent-red": "oklch(0.63 0.173 24)",
+
+    "accent-green-foreground": "oklch(0.13 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.10 0 0)",
+    "accent-blue-foreground": "oklch(0.99 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.99 0 0)",
+    "accent-red-foreground": "oklch(0.10 0.01 24)",
+
+    "border": "oklch(0.42 0.012 85)",
+    "border-width": "1px",
+    "ring": "oklch(0.60 0.135 40)",
+    "overlay": "oklch(0.10 0.003 80 / 0.55)",
+
+    "shadow-x": "0px",
+    "shadow-y": "1px",
+    "shadow-blur": "4px",
+    "shadow-color": "oklch(0.10 0.003 107)"
+  }
+}

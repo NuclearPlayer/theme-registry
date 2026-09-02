@@ -5,6 +5,7 @@ on:
     paths:
       - 'themes/**'
       - 'themes.json'
+      - 'v2/**'
       - 'schema/**'
       - 'scripts/**'
 

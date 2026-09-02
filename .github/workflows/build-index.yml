@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'themes/**'
+      - 'v2/themes/**'
 
 jobs:
   build-index:
@@ -30,14 +31,16 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git diff --quiet themes.json && exit 0
+          git diff --quiet themes.json v2/themes.json && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add themes.json
+          git add themes.json v2/themes.json
           git commit -m "Regenerate themes.json"
           git push
 
       - name: Purge jsDelivr cache
         uses: gacts/purge-jsdelivr-cache@v1
         with:
-          url: https://cdn.jsdelivr.net/gh/NuclearPlayer/theme-registry@master/themes.json
+          url: |
+            https://cdn.jsdelivr.net/gh/NuclearPlayer/theme-registry@master/themes.json
+            https://cdn.jsdelivr.net/gh/NuclearPlayer/theme-registry@master/v2/themes.json

@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "themes": [
+    {
+      "id": "claude",
+      "name": "Claude",
+      "description": "Warm, understated tones inspired by Anthropic's Claude",
+      "author": "nukeop",
+      "tags": [
+        "warm",
+        "minimal",
+        "clean"
+      ],
+      "palette": [
+        "oklch(0.97 0.009 100)",
+        "oklch(0.31 0.003 107)",
+        "oklch(0.68 0.145 40)",
+        "oklch(0.51 0.126 257)"
+      ],
+      "path": "v2/themes/claude.json"
+    },
+    {
+      "id": "yorha",
+      "name": "YoRHa",
+      "description": "Inspired by the UI of NieR:Automata.",
+      "author": "nukeop",
+      "tags": [
+        "minimal",
+        "monochrome"
+      ],
+      "palette": [
+        "oklch(0.9112 0.0325 95.42)",
+        "oklch(0.3102 0.0113 84.59)",
+        "oklch(0.6303 0.0168 90.30)",
+        "oklch(0.4058 0.0186 90.39)"
+      ],
+      "path": "v2/themes/yorha.json"
+    }
+  ]
+}

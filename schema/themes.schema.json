@@ -89,7 +89,7 @@
         "path": {
           "type": "string",
           "description": "Relative path to the theme file within the repo",
-          "pattern": "^themes/[a-z0-9-]+\\.json$"
+          "pattern": "^(v2/)?themes/[a-z0-9-]+\\.json$"
         }
       },
       "additionalProperties": false

@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/NuclearPlayer/theme-registry/master/schema/v2/theme-file.schema.json",
+  "title": "Nuclear Theme File",
+  "description": "Schema for an individual Nuclear theme file",
+  "type": "object",
+  "required": [
+    "version",
+    "name",
+    "author",
+    "description",
+    "tags",
+    "palette"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to this schema"
+    },
+    "version": {
+      "type": "number",
+      "description": "Schema version number",
+      "const": 2
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name shown in the theme store",
+      "minLength": 1,
+      "maxLength": 64
+    },
+    "author": {
+      "type": "string",
+      "description": "Theme author's name or username",
+      "minLength": 1,
+      "maxLength": 64
+    },
+    "description": {
+      "type": "string",
+      "description": "Short description of the theme",
+      "minLength": 10,
+      "maxLength": 200
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable tags",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 32,
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "maxItems": 10,
+      "uniqueItems": true
+    },
+    "palette": {
+      "type": "array",
+      "description": "Four representative colors for the theme preview",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 4,
+      "maxItems": 4
+    },
+    "vars": {
+      "$ref": "#/$defs/themeVars"
+    },
+    "dark": {
+      "$ref": "#/$defs/themeVars"
+    }
+  },
+  "$defs": {
+    "themeVars": {
+      "type": "object",
+      "description": "CSS variable overrides, keys without the -- prefix",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[^{};]*$"
+      },
+      "propertyNames": {
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      }
+    }
+  }
+}
