@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "name": "Green Machine",
+  "author": "nukeop",
+  "description": "The familiar dark music player with green accents",
+  "tags": ["dark", "minimal", "green"],
+  "palette": [
+    "oklch(0.182 0.000 0.0)",
+    "oklch(0.689 0.187 148.9)",
+    "oklch(0.277 0.000 0.0)",
+    "oklch(0.767 0.000 0.0)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.955 0.000 0.0)",
+    "foreground": "oklch(0.182 0.000 0.0)",
+
+    "muted": "oklch(1.000 0.000 0.0)",
+    "muted-foreground": "oklch(0.442 0.000 0.0)",
+
+    "card": "oklch(0.930 0.000 0.0)",
+    "card-foreground": "oklch(0.182 0.000 0.0)",
+
+    "popover": "oklch(0.985 0.000 0.0)",
+    "popover-foreground": "oklch(0.182 0.000 0.0)",
+
+    "input": "oklch(0.920 0.000 0.0)",
+    "input-foreground": "oklch(0.182 0.000 0.0)",
+
+    "primary": "oklch(0.460 0.150 148.9)",
+    "primary-foreground": "oklch(0.990 0.005 148.9)",
+
+    "accent-green": "oklch(0.550 0.140 148.9)",
+    "accent-yellow": "oklch(0.750 0.100 90.0)",
+    "accent-purple": "oklch(0.580 0.100 300.0)",
+    "accent-blue": "oklch(0.560 0.100 240.0)",
+    "accent-orange": "oklch(0.700 0.110 60.0)",
+    "accent-cyan": "oklch(0.560 0.100 210.0)",
+    "accent-red": "oklch(0.580 0.150 25.0)",
+
+    "accent-green-foreground": "oklch(0.990 0.005 148.9)",
+    "accent-yellow-foreground": "oklch(0.150 0.020 90.0)",
+    "accent-purple-foreground": "oklch(0.150 0.020 300.0)",
+    "accent-blue-foreground": "oklch(0.990 0.005 240.0)",
+    "accent-orange-foreground": "oklch(0.150 0.020 60.0)",
+    "accent-cyan-foreground": "oklch(0.150 0.020 210.0)",
+    "accent-red-foreground": "oklch(0.990 0.005 25.0)",
+
+    "border": "oklch(0.820 0.000 0.0)",
+    "border-width": "1px",
+    "ring": "oklch(0.460 0.150 148.9)",
+    "overlay": "oklch(0.10 0.000 0.0 / 0.45)",
+
+    "shadow-color": "oklch(0.400 0.060 148.9)",
+    "shadow-x": "0px",
+    "shadow-y": "1px",
+    "shadow-blur": "3px",
+
+    "radius-sm": "4px",
+    "radius-md": "8px",
+    "radius-lg": "12px"
+  },
+
+  "dark": {
+    "background": "oklch(0.182 0.000 0.0)",
+    "foreground": "oklch(1.000 0.000 0.0)",
+
+    "muted": "oklch(0.248 0.000 0.0)",
+    "muted-foreground": "oklch(0.767 0.000 0.0)",
+
+    "card": "oklch(0.300 0.000 0.0)",
+    "card-foreground": "oklch(1.000 0.000 0.0)",
+
+    "popover": "oklch(0.330 0.000 0.0)",
+    "popover-foreground": "oklch(1.000 0.000 0.0)",
+
+    "input": "oklch(0.150 0.000 0.0)",
+    "input-foreground": "oklch(1.000 0.000 0.0)",
+
+    "primary": "oklch(0.689 0.187 148.9)",
+    "primary-foreground": "oklch(0.150 0.020 148.9)",
+
+    "accent-green": "oklch(0.500 0.140 148.9)",
+    "accent-yellow": "oklch(0.600 0.100 90.0)",
+    "accent-purple": "oklch(0.500 0.100 300.0)",
+    "accent-blue": "oklch(0.480 0.100 240.0)",
+    "accent-orange": "oklch(0.580 0.110 60.0)",
+    "accent-cyan": "oklch(0.480 0.100 210.0)",
+    "accent-red": "oklch(0.500 0.150 25.0)",
+
+    "accent-green-foreground": "oklch(0.970 0.010 148.9)",
+    "accent-yellow-foreground": "oklch(0.150 0.020 90.0)",
+    "accent-purple-foreground": "oklch(0.970 0.010 300.0)",
+    "accent-blue-foreground": "oklch(0.970 0.010 240.0)",
+    "accent-orange-foreground": "oklch(0.150 0.020 60.0)",
+    "accent-cyan-foreground": "oklch(0.970 0.010 210.0)",
+    "accent-red-foreground": "oklch(0.970 0.010 25.0)",
+
+    "border": "oklch(0.321 0.000 0.0)",
+    "ring": "oklch(0.689 0.187 148.9)",
+    "overlay": "oklch(0.05 0.000 0.0 / 0.6)",
+
+    "shadow-color": "oklch(0.100 0.000 0.0)",
+    "shadow-x": "0px",
+    "shadow-y": "0px",
+    "shadow-blur": "3px"
+  }
+}

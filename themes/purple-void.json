@@ -18,10 +18,6 @@
     "foreground-secondary": "oklch(70% 0.15 295)",
     "foreground-input": "oklch(92% 0.05 300)",
     "primary": "oklch(45% 0.25 290)",
-    "primary-foreground": "oklch(100% 0 0)",
-    "primary-hover": "oklch(58% 0.32 295)",
-    "accent": "oklch(60% 0.20 280)",
-    "accent-foreground": "oklch(100% 0 0)",
     "border": "oklch(50% 0.28 290)",
     "border-input": "oklch(40% 0.22 285)",
     "ring": "oklch(0% 0 0)",
@@ -45,10 +41,6 @@
     "accent-blue": "oklch(55% 0.20 240)",
     "accent-orange": "oklch(65% 0.18 40)",
     "accent-cyan": "oklch(65% 0.15 190)",
-    "accent-red": "oklch(50% 0.22 20)",
-    "logo-background": "oklch(50% 0.28 290)",
-    "logo-foreground": "oklch(100% 0 0)",
-    "header-icon-color": "oklch(70% 0.15 295)",
-    "titlebar-icon": "oklch(75% 0.15 290)"
+    "accent-red": "oklch(50% 0.22 20)"
   }
 }

@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "name": "Nord",
+  "author": "DarkWister",
+  "description": "Nord palette with its carateristic bluish accents",
+  "tags": ["dark", "light", "blue", "minimal"],
+  "palette": [
+    "oklch(0.6965 0.0591 248.69)",
+    "oklch(0.933 0.0104 261.79)",
+    "oklch(0.3244 0.0229 264.18)",
+    "oklch(0.90 0.008 342)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.8993 0.0164 262.75)",
+    "foreground": "oklch(0.3244 0.0229 264.18)",
+
+    "muted": "oklch(0.933 0.0104 261.79)",
+    "muted-foreground": "oklch(0.4917 0.0772 254.03)",
+
+    "card": "oklch(0.965 0.0090 260.5)",
+    "card-foreground": "oklch(0.3244 0.0229 264.18)",
+
+    "popover": "oklch(0.975 0.0075 260.0)",
+    "popover-foreground": "oklch(0.3244 0.0229 264.18)",
+
+    "input": "oklch(0.9513 0.0074 260.73)",
+    "input-foreground": "oklch(0.3792 0.029 266.47)",
+
+    "primary": "oklch(0.6965 0.0591 248.69)",
+    "primary-foreground": "oklch(0.15 0.02 249)",
+
+    "accent-green": "oklch(0.7683 0.0749 131.06)",
+    "accent-yellow": "oklch(0.8549 0.0892 84.09)",
+    "accent-purple": "oklch(0.6921 0.0625 332.66)",
+    "accent-blue": "oklch(0.5944 0.0772 254.03)",
+    "accent-orange": "oklch(0.6929 0.0963 38.24)",
+    "accent-cyan": "oklch(0.7746 0.0622 217.47)",
+    "accent-red": "oklch(0.6061 0.1206 15.34)",
+
+    "accent-green-foreground": "oklch(0.15 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.10 0 0)",
+    "accent-blue-foreground": "oklch(0.99 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.15 0 0)",
+    "accent-red-foreground": "oklch(0.10 0 0)",
+
+    "border": "oklch(0.3792 0.029 266.47)",
+    "border-width": "2px",
+    "ring": "oklch(0.6965 0.0591 248.69)",
+    "overlay": "oklch(0.3244 0.0229 264.18 / 0.45)",
+
+    "shadow-color": "oklch(0.3244 0.0229 264.18)",
+    "shadow-x": "2px",
+    "shadow-y": "2px",
+    "shadow-blur": "0px",
+
+    "font-family": "'DM sans', system-ui, -apple-system, sans-serif",
+    "font-family-heading": "'Fira Code', var(--default-font-family)",
+    "font-family-mono": "'Space mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace",
+    "font-weight-normal": "400",
+    "font-weight-bold": "700",
+    "font-weight-extra-bold": "800",
+
+    "radius-sm": "4px",
+    "radius-md": "8px",
+    "radius-lg": "12px"
+  },
+
+  "dark": {
+    "background": "oklch(0.3244 0.0229 264.18)",
+    "foreground": "oklch(0.90 0.008 342)",
+
+    "muted": "oklch(0.3792 0.029 266.47)",
+    "muted-foreground": "oklch(0.78 0.05 254)",
+
+    "card": "oklch(0.40 0.030 265)",
+    "card-foreground": "oklch(0.90 0.008 342)",
+
+    "popover": "oklch(0.47 0.033 265)",
+    "popover-foreground": "oklch(0.90 0.008 342)",
+
+    "input": "oklch(0.4523 0.0352 264.13)",
+    "input-foreground": "oklch(0.93 0 0)",
+
+    "primary": "oklch(0.6965 0.0591 248.69)",
+    "primary-foreground": "oklch(0.15 0.02 249)",
+
+    "accent-green": "oklch(0.7683 0.0749 131.06)",
+    "accent-yellow": "oklch(0.8549 0.0892 84.09)",
+    "accent-purple": "oklch(0.6921 0.0625 332.66)",
+    "accent-blue": "oklch(0.5944 0.0772 254.03)",
+    "accent-orange": "oklch(0.6929 0.0963 38.24)",
+    "accent-cyan": "oklch(0.7746 0.0622 217.47)",
+    "accent-red": "oklch(0.6061 0.1206 15.34)",
+
+    "accent-green-foreground": "oklch(0.15 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.10 0 0)",
+    "accent-blue-foreground": "oklch(0.99 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.15 0 0)",
+    "accent-red-foreground": "oklch(0.10 0 0)",
+
+    "border": "oklch(0.4523 0.0352 264.13)",
+    "border-width": "1px",
+    "ring": "oklch(0.6965 0.0591 248.69)",
+    "overlay": "oklch(0.12 0.02 264 / 0.55)",
+
+    "shadow-color": "oklch(0.15 0.02 264)",
+    "shadow-x": "0px",
+    "shadow-y": "0px",
+    "shadow-blur": "0px"
+  }
+}

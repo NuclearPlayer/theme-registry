@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "name": "Pixel",
+  "author": "aitorllj93",
+  "description": "A grayscale theme with pixel art fonts. Requires 'Able 5' and 'Pixel Digivolve Italic' fonts installed on the system.",
+  "tags": ["minimal", "monochrome", "grayscale", "pixel-art"],
+  "palette": [
+    "oklch(0.9112 0.0325 95.42)",
+    "oklch(0.3102 0.0113 84.59)",
+    "oklch(0.6303 0.0168 90.30)",
+    "oklch(0.4058 0.0186 90.39)"
+  ],
+
+  "vars": {
+    "background": "oklch(1 0 0)",
+    "foreground": "oklch(0.1929 0.0336 42.11)",
+
+    "muted": "oklch(0.97 0 0)",
+    "muted-foreground": "oklch(0.1929 0.0336 42.11)",
+
+    "card": "oklch(0.922 0 0)",
+    "card-foreground": "oklch(0.1929 0.0336 42.11)",
+
+    "popover": "oklch(0.90 0 0)",
+    "popover-foreground": "oklch(0.1929 0.0336 42.11)",
+
+    "input": "oklch(0.985 0 0)",
+    "input-foreground": "oklch(0% 0 0)",
+
+    "primary": "oklch(0.18 0.02 42)",
+    "primary-foreground": "oklch(0.97 0.01 90)",
+
+    "accent-green": "oklch(0.97 0 0)",
+    "accent-yellow": "oklch(0.97 0 0)",
+    "accent-purple": "oklch(0.97 0 0)",
+    "accent-blue": "oklch(0.97 0 0)",
+    "accent-orange": "oklch(0.97 0 0)",
+    "accent-cyan": "oklch(0.97 0 0)",
+    "accent-red": "oklch(0.4619 0.0164 67.4)",
+
+    "accent-green-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-yellow-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-purple-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-blue-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-orange-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-cyan-foreground": "oklch(0.1929 0.0336 42.11)",
+    "accent-red-foreground": "oklch(0.97 0.01 67.4)",
+
+    "border": "oklch(0.708 0 0)",
+    "border-width": "2px",
+    "ring": "oklch(0.8176 0.0057 274.95)",
+    "overlay": "oklch(0 0 0 / 0.45)",
+
+    "shadow-color": "oklch(0% 0 0)",
+    "shadow-x": "2px",
+    "shadow-y": "2px",
+    "shadow-blur": "0px",
+
+    "font-family": "'Able 5', 'Noto Sans', system-ui, sans-serif",
+    "font-family-heading": "'Pixel Digivolve Italic', 'Bricolage Grotesque'",
+    "font-weight-normal": "400",
+    "font-weight-bold": "700",
+    "font-weight-extra-bold": "800",
+
+    "radius-sm": "2px",
+    "radius-md": "4px",
+    "radius-lg": "6px"
+  },
+
+  "dark": {
+    "background": "oklch(0.12 0 0)",
+    "foreground": "oklch(0.91 0.018 42.11)",
+
+    "muted": "oklch(0.16 0 0)",
+    "muted-foreground": "oklch(0.72 0.014 42.11)",
+
+    "card": "oklch(0.22 0 0)",
+    "card-foreground": "oklch(0.91 0.018 42.11)",
+
+    "popover": "oklch(0.27 0 0)",
+    "popover-foreground": "oklch(0.91 0.018 42.11)",
+
+    "input": "oklch(0.14 0 0)",
+    "input-foreground": "oklch(0.95 0 0)",
+
+    "primary": "oklch(0.92 0.015 90)",
+    "primary-foreground": "oklch(0.16 0.02 42)",
+
+    "accent-green": "oklch(0.18 0 0)",
+    "accent-yellow": "oklch(0.18 0 0)",
+    "accent-purple": "oklch(0.18 0 0)",
+    "accent-blue": "oklch(0.18 0 0)",
+    "accent-orange": "oklch(0.18 0 0)",
+    "accent-cyan": "oklch(0.18 0 0)",
+    "accent-red": "oklch(0.52 0.0164 67.4)",
+
+    "accent-green-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-yellow-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-purple-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-blue-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-orange-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-cyan-foreground": "oklch(0.91 0.018 42.11)",
+    "accent-red-foreground": "oklch(0.97 0.01 67.4)",
+
+    "border": "oklch(0.34 0 0)",
+    "ring": "oklch(0.38 0.018 274.95)",
+    "overlay": "oklch(0 0 0 / 0.6)",
+
+    "shadow-color": "oklch(0% 0 0)",
+    "shadow-x": "2px",
+    "shadow-y": "2px",
+    "shadow-blur": "0px"
+  }
+}

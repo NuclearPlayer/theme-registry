@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "name": "Ruby Glow",
+  "author": "xoteqh",
+  "description": "Minimalist Ruby design featuring sharp borders, and high readability.",
+  "tags": ["duo", "light", "dark", "ruby", "rose"],
+  "palette": [
+    "oklch(96% 0.03 20)",
+    "oklch(68% 0.15 15)",
+    "oklch(12% 0.04 10)",
+    "oklch(55% 0.18 10)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.98 0.02 20)",
+    "foreground": "oklch(0.10 0.02 350)",
+
+    "muted": "oklch(0.94 0.03 15)",
+    "muted-foreground": "oklch(0.35 0.06 340)",
+
+    "card": "oklch(0.90 0.05 15)",
+    "card-foreground": "oklch(0.10 0.02 350)",
+
+    "popover": "oklch(0.87 0.055 14)",
+    "popover-foreground": "oklch(0.10 0.02 350)",
+
+    "input": "oklch(0.91 0.025 18)",
+    "input-foreground": "oklch(0.10 0.02 350)",
+
+    "primary": "oklch(0.50 0.17 10)",
+    "primary-foreground": "oklch(1 0 0)",
+
+    "accent-green": "oklch(0.65 0.12 145)",
+    "accent-yellow": "oklch(0.78 0.12 85)",
+    "accent-purple": "oklch(0.60 0.14 290)",
+    "accent-blue": "oklch(0.58 0.12 240)",
+    "accent-orange": "oklch(0.72 0.14 40)",
+    "accent-cyan": "oklch(0.68 0.12 190)",
+    "accent-red": "oklch(0.55 0.18 10)",
+
+    "accent-green-foreground": "oklch(0.15 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.15 0 0)",
+    "accent-blue-foreground": "oklch(0.15 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.15 0 0)",
+    "accent-red-foreground": "oklch(1 0 0)",
+
+    "border": "oklch(0.80 0.06 345)",
+    "border-width": "2.5px",
+    "ring": "oklch(0.50 0.17 10)",
+    "overlay": "oklch(0.15 0.03 350 / 0.45)",
+
+    "shadow-color": "oklch(0.50 0.10 10)",
+    "shadow-x": "1.5px",
+    "shadow-y": "3px",
+    "shadow-blur": "18px",
+
+    "font-family": "'Inter', system-ui, -apple-system, sans-serif",
+    "font-family-heading": "'Inter', var(--default-font-family)",
+    "font-family-mono": "'JetBrains Mono', ui-monospace, monospace",
+    "font-weight-normal": "400",
+    "font-weight-bold": "600",
+    "font-weight-extra-bold": "800",
+
+    "radius-sm": "8px",
+    "radius-md": "12px",
+    "radius-lg": "18px"
+  },
+
+  "dark": {
+    "background": "oklch(0.06 0.03 10)",
+    "foreground": "oklch(0.98 0.015 350)",
+
+    "muted": "oklch(0.12 0.035 15)",
+    "muted-foreground": "oklch(0.82 0.06 340)",
+
+    "card": "oklch(0.16 0.05 13)",
+    "card-foreground": "oklch(0.98 0.015 350)",
+
+    "popover": "oklch(0.20 0.055 12)",
+    "popover-foreground": "oklch(0.98 0.015 350)",
+
+    "input": "oklch(0.09 0.03 12)",
+    "input-foreground": "oklch(0.98 0.015 350)",
+
+    "primary": "oklch(0.45 0.18 10)",
+    "primary-foreground": "oklch(1 0 0)",
+
+    "accent-green": "oklch(0.65 0.12 145)",
+    "accent-yellow": "oklch(0.78 0.12 85)",
+    "accent-purple": "oklch(0.60 0.14 290)",
+    "accent-blue": "oklch(0.58 0.12 240)",
+    "accent-orange": "oklch(0.72 0.14 40)",
+    "accent-cyan": "oklch(0.68 0.12 190)",
+    "accent-red": "oklch(0.55 0.18 10)",
+
+    "accent-green-foreground": "oklch(0.15 0 0)",
+    "accent-yellow-foreground": "oklch(0.15 0 0)",
+    "accent-purple-foreground": "oklch(0.15 0 0)",
+    "accent-blue-foreground": "oklch(0.15 0 0)",
+    "accent-orange-foreground": "oklch(0.15 0 0)",
+    "accent-cyan-foreground": "oklch(0.15 0 0)",
+    "accent-red-foreground": "oklch(1 0 0)",
+
+    "border": "oklch(0.35 0.08 345)",
+    "border-width": "2.5px",
+    "ring": "oklch(0.45 0.18 10)",
+    "overlay": "oklch(0.04 0.02 10 / 0.6)",
+
+    "shadow-color": "oklch(0.45 0.15 10)",
+    "shadow-x": "1.5px",
+    "shadow-y": "3px",
+    "shadow-blur": "28px"
+  }
+}

@@ -2,6 +2,24 @@
   "version": 2,
   "themes": [
     {
+      "id": "blacktheme",
+      "name": "Spotify Dark Theme",
+      "description": "amoled/black theme based around spotify's colours.",
+      "author": "visa",
+      "tags": [
+        "amoled",
+        "black",
+        "spotify"
+      ],
+      "palette": [
+        "#000000",
+        "#121212",
+        "#1db954",
+        "#ffffff"
+      ],
+      "path": "v2/themes/blacktheme.json"
+    },
+    {
       "id": "claude",
       "name": "Claude",
       "description": "Warm, understated tones inspired by Anthropic's Claude",
@@ -18,6 +36,325 @@
         "oklch(0.51 0.126 257)"
       ],
       "path": "v2/themes/claude.json"
+    },
+    {
+      "id": "cotton-candy",
+      "name": "Cotton Candy",
+      "description": "Soft pastels in baby pink and baby blue",
+      "author": "nukeop",
+      "tags": [
+        "pastel",
+        "pink",
+        "cute"
+      ],
+      "palette": [
+        "oklch(0.975 0.012 350)",
+        "oklch(0.230 0.025 280)",
+        "oklch(0.665 0.100 250)",
+        "oklch(0.720 0.130 350)"
+      ],
+      "path": "v2/themes/cotton-candy.json"
+    },
+    {
+      "id": "daydream",
+      "name": "Daydream",
+      "description": "Deep velvet tones for late nights",
+      "author": "xoteqh",
+      "tags": [
+        "light",
+        "dark",
+        "bloom",
+        "minimal"
+      ],
+      "palette": [
+        "oklch(96% 0.01 0)",
+        "oklch(45% 0.02 0)",
+        "oklch(8% 0.01 0)",
+        "oklch(35% 0.015 0)"
+      ],
+      "path": "v2/themes/daydream.json"
+    },
+    {
+      "id": "deep-black",
+      "name": "Deep Black",
+      "description": "Premium pitch-black theme with high contrast elements.",
+      "author": "xoteqh",
+      "tags": [
+        "dark",
+        "black"
+      ],
+      "palette": [
+        "oklch(6% 0 0)",
+        "oklch(12% 0 0)",
+        "oklch(98% 0 0)",
+        "oklch(30% 0 0)"
+      ],
+      "path": "v2/themes/deep-black.json"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "description": "The famous dark theme by Zeno Rocha, with Alucard light mode",
+      "author": "nukeop",
+      "tags": [
+        "dark",
+        "vibrant",
+        "popular"
+      ],
+      "palette": [
+        "oklch(0.288 0.022 277.5)",
+        "oklch(0.742 0.149 301.9)",
+        "oklch(0.755 0.183 346.8)",
+        "oklch(0.871 0.220 148.0)"
+      ],
+      "path": "v2/themes/dracula.json"
+    },
+    {
+      "id": "everforest",
+      "name": "Everforest",
+      "description": "Warm greens and soft earth tones, easy on the eyes",
+      "author": "nukeop",
+      "tags": [
+        "green",
+        "warm",
+        "nature"
+      ],
+      "palette": [
+        "oklch(0.324 0.018 155.0)",
+        "oklch(0.773 0.091 125.8)",
+        "oklch(0.830 0.041 86.1)",
+        "oklch(0.749 0.063 185.5)"
+      ],
+      "path": "v2/themes/everforest.json"
+    },
+    {
+      "id": "green-machine",
+      "name": "Green Machine",
+      "description": "The familiar dark music player with green accents",
+      "author": "nukeop",
+      "tags": [
+        "dark",
+        "minimal",
+        "green"
+      ],
+      "palette": [
+        "oklch(0.182 0.000 0.0)",
+        "oklch(0.689 0.187 148.9)",
+        "oklch(0.277 0.000 0.0)",
+        "oklch(0.767 0.000 0.0)"
+      ],
+      "path": "v2/themes/green-machine.json"
+    },
+    {
+      "id": "gruvbox",
+      "name": "Gruvbox",
+      "description": "Retro groove color scheme. Based on the classic Vim theme.",
+      "author": "nukeop",
+      "tags": [
+        "retro",
+        "warm"
+      ],
+      "palette": [
+        "oklch(0.96 0.055 96)",
+        "oklch(0.28 0.000 263)",
+        "oklch(0.62 0.171 46)",
+        "oklch(0.34 0.007 48)"
+      ],
+      "path": "v2/themes/gruvbox.json"
+    },
+    {
+      "id": "neon-violet-pink",
+      "name": "Neon Violet-Pink Duo",
+      "description": "Dual-mode theme: soft pastel light version and smooth dark version with reduced brightness for comfortable viewing.",
+      "author": "xoteqh",
+      "tags": [
+        "duo",
+        "light",
+        "dark",
+        "purple",
+        "pink",
+        "violet",
+        "neon"
+      ],
+      "palette": [
+        "oklch(95% 0.02 320)",
+        "oklch(65% 0.12 340)",
+        "oklch(10% 0.03 290)",
+        "oklch(45% 0.18 340)"
+      ],
+      "path": "v2/themes/neon-violet-pink.json"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "description": "Nord palette with its carateristic bluish accents",
+      "author": "DarkWister",
+      "tags": [
+        "dark",
+        "light",
+        "blue",
+        "minimal"
+      ],
+      "palette": [
+        "oklch(0.6965 0.0591 248.69)",
+        "oklch(0.933 0.0104 261.79)",
+        "oklch(0.3244 0.0229 264.18)",
+        "oklch(0.90 0.008 342)"
+      ],
+      "path": "v2/themes/nord.json"
+    },
+    {
+      "id": "ocean-glow",
+      "name": "Ocean Glow",
+      "description": "Soft pastel blue meets deep neon vibes",
+      "author": "xoteqh",
+      "tags": [
+        "light",
+        "dark",
+        "blue",
+        "ocean",
+        "glow"
+      ],
+      "palette": [
+        "oklch(91% 0.04 210)",
+        "oklch(48% 0.16 208)",
+        "oklch(8% 0.03 235)",
+        "oklch(55% 0.20 210)"
+      ],
+      "path": "v2/themes/ocean-glow.json"
+    },
+    {
+      "id": "one-dark",
+      "name": "One Dark",
+      "description": "Atom editor's iconic blue-tinted dark theme",
+      "author": "nukeop",
+      "tags": [
+        "dark",
+        "blue",
+        "editor"
+      ],
+      "palette": [
+        "oklch(0.292 0.016 264.3)",
+        "oklch(0.732 0.121 245.2)",
+        "oklch(0.694 0.163 318.0)",
+        "oklch(0.768 0.110 133.1)"
+      ],
+      "path": "v2/themes/one-dark.json"
+    },
+    {
+      "id": "onedarkblue",
+      "name": "One Dark Blue",
+      "description": "Dark blue modern theme for Nuclear",
+      "author": "dervarex",
+      "tags": [
+        "dark",
+        "blue",
+        "modern"
+      ],
+      "palette": [
+        "oklch(0.22 0.02 260)",
+        "oklch(0.62 0.12 250)",
+        "oklch(0.70 0.16 310)",
+        "oklch(0.78 0.12 140)"
+      ],
+      "path": "v2/themes/onedarkblue.json"
+    },
+    {
+      "id": "pixel",
+      "name": "Pixel",
+      "description": "A grayscale theme with pixel art fonts. Requires 'Able 5' and 'Pixel Digivolve Italic' fonts installed on the system.",
+      "author": "aitorllj93",
+      "tags": [
+        "minimal",
+        "monochrome",
+        "grayscale",
+        "pixel-art"
+      ],
+      "palette": [
+        "oklch(0.9112 0.0325 95.42)",
+        "oklch(0.3102 0.0113 84.59)",
+        "oklch(0.6303 0.0168 90.30)",
+        "oklch(0.4058 0.0186 90.39)"
+      ],
+      "path": "v2/themes/pixel.json"
+    },
+    {
+      "id": "purple-void",
+      "name": "Purple Void",
+      "description": "Pure darkness meeting a sharp, neon-purple void.",
+      "author": "xoteqh",
+      "tags": [
+        "dark",
+        "violet",
+        "neon",
+        "glow",
+        "void"
+      ],
+      "palette": [
+        "oklch(4% 0.02 290)",
+        "oklch(45% 0.25 290)",
+        "oklch(92% 0.05 300)",
+        "oklch(55% 0.30 285)"
+      ],
+      "path": "v2/themes/purple-void.json"
+    },
+    {
+      "id": "rose-pine",
+      "name": "Rosé Pine",
+      "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+      "author": "nukeop",
+      "tags": [
+        "dark",
+        "muted",
+        "warm"
+      ],
+      "palette": [
+        "oklch(0.213 0.025 291.1)",
+        "oklch(0.698 0.156 4.2)",
+        "oklch(0.836 0.054 21.1)",
+        "oklch(0.776 0.095 305.0)"
+      ],
+      "path": "v2/themes/rose-pine.json"
+    },
+    {
+      "id": "ruby-glow",
+      "name": "Ruby Glow",
+      "description": "Minimalist Ruby design featuring sharp borders, and high readability.",
+      "author": "xoteqh",
+      "tags": [
+        "duo",
+        "light",
+        "dark",
+        "ruby",
+        "rose"
+      ],
+      "palette": [
+        "oklch(96% 0.03 20)",
+        "oklch(68% 0.15 15)",
+        "oklch(12% 0.04 10)",
+        "oklch(55% 0.18 10)"
+      ],
+      "path": "v2/themes/ruby-glow.json"
+    },
+    {
+      "id": "solarized",
+      "name": "Solarized",
+      "description": "Precision colors for machines and people",
+      "author": "Ethan Schoonover",
+      "tags": [
+        "dark",
+        "light",
+        "green",
+        "blue",
+        "solarized"
+      ],
+      "palette": [
+        "oklch(0.267 0.049 219.8)",
+        "oklch(0.974 0.026 90.1)",
+        "oklch(0.615 0.139 244.9)",
+        "oklch(0.654 0.134 85.7)"
+      ],
+      "path": "v2/themes/solarized.json"
     },
     {
       "id": "yorha",

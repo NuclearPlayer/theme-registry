@@ -18,10 +18,6 @@
     "foreground-secondary": "oklch(72% 0 0)",
     "foreground-input": "oklch(98% 0 0)",
     "primary": "oklch(30% 0 0)",
-    "primary-foreground": "oklch(98% 0 0)",
-    "primary-hover": "oklch(40% 0 0)",
-    "accent": "oklch(30% 0 0)",
-    "accent-foreground": "oklch(98% 0 0)",
     "border": "oklch(18% 0 0)",
     "border-input": "oklch(18% 0 0)",
     "ring": "oklch(40% 0 0)",
@@ -45,11 +41,7 @@
     "accent-blue": "oklch(60% 0.15 250)",
     "accent-orange": "oklch(75% 0.16 45)",
     "accent-cyan": "oklch(75% 0.12 200)",
-    "accent-red": "oklch(62% 0.18 20)",
-    "logo-background": "oklch(98% 0 0)",
-    "logo-foreground": "oklch(6% 0 0)",
-    "header-icon-color": "oklch(98% 0 0)",
-    "titlebar-icon": "oklch(98% 0 0)"
+    "accent-red": "oklch(62% 0.18 20)"
   },
   "dark": {
     "background": "oklch(4% 0 0)",
@@ -57,20 +49,12 @@
     "foreground": "oklch(98% 0 0)",
     "foreground-secondary": "oklch(72% 0 0)",
     "primary": "oklch(28% 0 0)",
-    "primary-foreground": "oklch(98% 0 0)",
-    "primary-hover": "oklch(38% 0 0)",
-    "accent": "oklch(28% 0 0)",
-    "accent-foreground": "oklch(98% 0 0)",
     "border": "oklch(16% 0 0)",
     "border-input": "oklch(16% 0 0)",
     "ring": "oklch(38% 0 0)",
     "shadow-color": "oklch(0% 0 0)",
     "shadow-x": "3px",
     "shadow-y": "4px",
-    "shadow-blur": "16px",
-    "logo-background": "oklch(6% 0 0)",
-    "logo-foreground": "oklch(98% 0 0)",
-    "header-icon-color": "oklch(6% 0 0)",
-    "titlebar-icon": "oklch(6% 0 0)"
+    "shadow-blur": "16px"
   }
 }

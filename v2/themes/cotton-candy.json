@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "name": "Cotton Candy",
+  "author": "nukeop",
+  "description": "Soft pastels in baby pink and baby blue",
+  "tags": ["pastel", "pink", "cute"],
+  "palette": [
+    "oklch(0.975 0.012 350)",
+    "oklch(0.230 0.025 280)",
+    "oklch(0.665 0.100 250)",
+    "oklch(0.720 0.130 350)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.975 0.012 350)",
+    "foreground": "oklch(0.300 0.020 280)",
+
+    "muted": "oklch(0.985 0.008 350)",
+    "muted-foreground": "oklch(0.420 0.024 280)",
+
+    "card": "oklch(0.940 0.022 345)",
+    "card-foreground": "oklch(0.300 0.020 280)",
+
+    "popover": "oklch(0.920 0.026 345)",
+    "popover-foreground": "oklch(0.300 0.020 280)",
+
+    "input": "oklch(0.950 0.015 350)",
+    "input-foreground": "oklch(0.300 0.020 280)",
+
+    "primary": "oklch(0.665 0.100 250)",
+    "primary-foreground": "oklch(0.150 0.030 250)",
+
+    "accent-green": "oklch(0.660 0.090 160)",
+    "accent-yellow": "oklch(0.670 0.090 90)",
+    "accent-purple": "oklch(0.675 0.100 300)",
+    "accent-blue": "oklch(0.665 0.090 250)",
+    "accent-orange": "oklch(0.675 0.100 55)",
+    "accent-cyan": "oklch(0.665 0.090 210)",
+    "accent-red": "oklch(0.685 0.120 350)",
+
+    "accent-green-foreground": "oklch(0.150 0.020 160)",
+    "accent-yellow-foreground": "oklch(0.150 0.020 90)",
+    "accent-purple-foreground": "oklch(0.150 0.020 300)",
+    "accent-blue-foreground": "oklch(0.150 0.020 250)",
+    "accent-orange-foreground": "oklch(0.150 0.020 55)",
+    "accent-cyan-foreground": "oklch(0.150 0.020 210)",
+    "accent-red-foreground": "oklch(0.150 0.020 350)",
+
+    "border": "oklch(0.850 0.015 350)",
+    "border-width": "1px",
+    "ring": "oklch(0.665 0.100 250)",
+    "overlay": "oklch(0.20 0.03 280 / 0.45)",
+
+    "shadow-color": "oklch(0.500 0.060 300)",
+    "shadow-x": "2px",
+    "shadow-y": "2px",
+    "shadow-blur": "0px",
+
+    "radius-sm": "8px",
+    "radius-md": "12px",
+    "radius-lg": "18px"
+  },
+
+  "dark": {
+    "background": "oklch(0.230 0.025 280)",
+    "foreground": "oklch(0.920 0.015 300)",
+
+    "muted": "oklch(0.270 0.028 280)",
+    "muted-foreground": "oklch(0.700 0.020 300)",
+
+    "card": "oklch(0.300 0.030 285)",
+    "card-foreground": "oklch(0.920 0.015 300)",
+
+    "popover": "oklch(0.330 0.032 285)",
+    "popover-foreground": "oklch(0.920 0.015 300)",
+
+    "input": "oklch(0.200 0.022 280)",
+    "input-foreground": "oklch(0.920 0.015 300)",
+
+    "primary": "oklch(0.720 0.130 350)",
+    "primary-foreground": "oklch(0.150 0.030 350)",
+
+    "accent-green": "oklch(0.470 0.070 160)",
+    "accent-yellow": "oklch(0.480 0.070 90)",
+    "accent-purple": "oklch(0.485 0.080 300)",
+    "accent-blue": "oklch(0.480 0.070 250)",
+    "accent-orange": "oklch(0.485 0.080 55)",
+    "accent-cyan": "oklch(0.470 0.070 210)",
+    "accent-red": "oklch(0.490 0.090 350)",
+
+    "accent-green-foreground": "oklch(0.960 0.015 160)",
+    "accent-yellow-foreground": "oklch(0.960 0.015 90)",
+    "accent-purple-foreground": "oklch(0.960 0.015 300)",
+    "accent-blue-foreground": "oklch(0.960 0.015 250)",
+    "accent-orange-foreground": "oklch(0.960 0.015 55)",
+    "accent-cyan-foreground": "oklch(0.960 0.015 210)",
+    "accent-red-foreground": "oklch(0.960 0.015 350)",
+
+    "border": "oklch(0.370 0.025 280)",
+    "ring": "oklch(0.720 0.130 350)",
+    "overlay": "oklch(0.10 0.02 280 / 0.55)",
+
+    "shadow-color": "oklch(0.120 0.015 280)",
+    "shadow-x": "0px",
+    "shadow-y": "0px",
+    "shadow-blur": "0px"
+  }
+}

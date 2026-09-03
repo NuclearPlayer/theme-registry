@@ -1,0 +1,91 @@
+{
+  "version": 2,
+  "name": "Solarized",
+  "author": "Ethan Schoonover",
+  "description": "Precision colors for machines and people",
+  "tags": ["dark", "light", "green", "blue", "solarized"],
+  "palette": [
+    "oklch(0.267 0.049 219.8)",
+    "oklch(0.974 0.026 90.1)",
+    "oklch(0.615 0.139 244.9)",
+    "oklch(0.654 0.134 85.7)"
+  ],
+
+  "vars": {
+    "background": "oklch(0.974 0.026 90.1)",
+    "foreground": "oklch(0.480 0.029 221.9)",
+
+    "muted": "oklch(0.931 0.026 92.4)",
+    "muted-foreground": "oklch(0.500 0.020 200.0)",
+
+    "card": "oklch(0.955 0.026 91.0)",
+    "card-foreground": "oklch(0.480 0.029 221.9)",
+
+    "popover": "oklch(0.915 0.026 92.0)",
+    "popover-foreground": "oklch(0.480 0.029 221.9)",
+
+    "input": "oklch(0.931 0.026 92.4)",
+    "input-foreground": "oklch(0.500 0.028 219.1)",
+
+    "primary": "oklch(0.615 0.139 244.9)",
+    "primary-foreground": "oklch(0.140 0.020 245.0)",
+
+    "accent-green": "oklch(0.644 0.151 118.6)",
+    "accent-yellow": "oklch(0.654 0.134 85.7)",
+    "accent-purple": "oklch(0.582 0.126 279.1)",
+    "accent-blue": "oklch(0.615 0.139 244.9)",
+    "accent-orange": "oklch(0.581 0.173 39.5)",
+    "accent-cyan": "oklch(0.644 0.102 187.4)",
+    "accent-red": "oklch(0.586 0.206 27.1)",
+
+    "accent-green-foreground": "oklch(0.140 0.020 118.6)",
+    "accent-yellow-foreground": "oklch(0.140 0.020 85.7)",
+    "accent-purple-foreground": "oklch(0.140 0.015 279.1)",
+    "accent-blue-foreground": "oklch(0.140 0.020 244.9)",
+    "accent-orange-foreground": "oklch(0.970 0.020 39.5)",
+    "accent-cyan-foreground": "oklch(0.140 0.015 187.4)",
+    "accent-red-foreground": "oklch(0.970 0.020 27.1)",
+
+    "border": "oklch(0.698 0.016 196.8)",
+    "border-width": "1px",
+    "ring": "oklch(0.615 0.139 244.9)",
+    "overlay": "oklch(0.20 0.03 220 / 0.45)",
+
+    "shadow-color": "oklch(0.698 0.016 196.8)",
+    "shadow-x": "0px",
+    "shadow-y": "0px",
+    "shadow-blur": "0px",
+
+    "radius-sm": "3px",
+    "radius-md": "5px",
+    "radius-lg": "8px"
+  },
+
+  "dark": {
+    "background": "oklch(0.267 0.049 219.8)",
+    "foreground": "oklch(0.654 0.020 205.3)",
+
+    "muted": "oklch(0.309 0.052 219.7)",
+    "muted-foreground": "oklch(0.698 0.016 196.8)",
+
+    "card": "oklch(0.285 0.050 219.7)",
+    "card-foreground": "oklch(0.698 0.016 196.8)",
+
+    "popover": "oklch(0.320 0.052 219.7)",
+    "popover-foreground": "oklch(0.698 0.016 196.8)",
+
+    "input": "oklch(0.309 0.052 219.7)",
+    "input-foreground": "oklch(0.698 0.016 196.8)",
+
+    "primary": "oklch(0.615 0.139 244.9)",
+    "primary-foreground": "oklch(0.140 0.020 245.0)",
+
+    "border": "oklch(0.523 0.028 219.1)",
+    "ring": "oklch(0.615 0.139 244.9)",
+    "overlay": "oklch(0.10 0.02 220 / 0.55)",
+
+    "shadow-x": "0px",
+    "shadow-y": "0px",
+    "shadow-color": "oklch(0.205 0.037 220.1)"
+  }
+}

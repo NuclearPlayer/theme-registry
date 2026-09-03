@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "name": "Daydream",
+  "author": "xoteqh",
+  "description": "Deep velvet tones for late nights",
+  "tags": ["light", "dark", "bloom", "minimal"],
+  "palette": [
+    "oklch(96% 0.01 0)",
+    "oklch(45% 0.02 0)",
+    "oklch(8% 0.01 0)",
+    "oklch(35% 0.015 0)"
+  ],
+
+  "vars": {
+    "background": "oklch(88% 0.01 0)",
+    "foreground": "oklch(35% 0.015 0)",
+
+    "muted": "oklch(82% 0.012 0)",
+    "muted-foreground": "oklch(38% 0.02 0)",
+
+    "card": "oklch(86.5% 0.011 0)",
+    "card-foreground": "oklch(35% 0.015 0)",
+
+    "popover": "oklch(91% 0.008 0)",
+    "popover-foreground": "oklch(35% 0.015 0)",
+
+    "input": "oklch(85% 0.01 0)",
+    "input-foreground": "oklch(18% 0.015 0)",
+
+    "primary": "oklch(70% 0.018 0)",
+    "primary-foreground": "oklch(15% 0.01 0)",
+
+    "accent-green": "oklch(60% 0.08 145)",
+    "accent-yellow": "oklch(75% 0.10 95)",
+    "accent-purple": "oklch(55% 0.12 295)",
+    "accent-blue": "oklch(55% 0.15 220)",
+    "accent-orange": "oklch(50% 0.10 75)",
+    "accent-cyan": "oklch(65% 0.08 190)",
+    "accent-red": "oklch(52% 0.12 20)",
+
+    "accent-green-foreground": "oklch(10% 0 0)",
+    "accent-yellow-foreground": "oklch(10% 0 0)",
+    "accent-purple-foreground": "oklch(98% 0 0)",
+    "accent-blue-foreground": "oklch(98% 0 0)",
+    "accent-orange-foreground": "oklch(98% 0 0)",
+    "accent-cyan-foreground": "oklch(10% 0 0)",
+    "accent-red-foreground": "oklch(98% 0 0)",
+
+    "border": "oklch(78% 0.02 0)",
+    "border-width": "2px",
+    "ring": "oklch(55% 0.025 0)",
+    "overlay": "oklch(10% 0.01 0 / 0.45)",
+
+    "shadow-color": "oklch(80% 0.01 0)",
+    "shadow-x": "1.5px",
+    "shadow-y": "2px",
+    "shadow-blur": "10px",
+
+    "font-family": "'Inter', system-ui, -apple-system, sans-serif",
+    "font-family-heading": "'Inter', var(--default-font-family)",
+    "font-family-mono": "'JetBrains Mono', ui-monospace, monospace",
+    "font-weight-normal": "400",
+    "font-weight-bold": "600",
+    "font-weight-extra-bold": "800",
+
+    "radius-sm": "8px",
+    "radius-md": "10px",
+    "radius-lg": "14px"
+  },
+
+  "dark": {
+    "background": "oklch(4% 0.008 0)",
+    "foreground": "oklch(95% 0.01 0)",
+
+    "muted": "oklch(10% 0.012 0)",
+    "muted-foreground": "oklch(78% 0.02 0)",
+
+    "card": "oklch(13% 0.014 0)",
+    "card-foreground": "oklch(95% 0.01 0)",
+
+    "popover": "oklch(16% 0.016 0)",
+    "popover-foreground": "oklch(95% 0.01 0)",
+
+    "input": "oklch(3% 0.006 0)",
+    "input-foreground": "oklch(95% 0.01 0)",
+
+    "primary": "oklch(48% 0.02 0)",
+    "primary-foreground": "oklch(95% 0.01 10)",
+
+    "accent-green": "oklch(60% 0.08 145)",
+    "accent-yellow": "oklch(75% 0.10 95)",
+    "accent-purple": "oklch(55% 0.12 295)",
+    "accent-blue": "oklch(55% 0.15 220)",
+    "accent-orange": "oklch(50% 0.10 75)",
+    "accent-cyan": "oklch(65% 0.08 190)",
+    "accent-red": "oklch(52% 0.12 20)",
+
+    "accent-green-foreground": "oklch(10% 0 0)",
+    "accent-yellow-foreground": "oklch(10% 0 0)",
+    "accent-purple-foreground": "oklch(98% 0 0)",
+    "accent-blue-foreground": "oklch(98% 0 0)",
+    "accent-orange-foreground": "oklch(98% 0 0)",
+    "accent-cyan-foreground": "oklch(10% 0 0)",
+    "accent-red-foreground": "oklch(98% 0 0)",
+
+    "border": "oklch(35% 0.03 0)",
+    "ring": "oklch(45% 0.035 0)",
+    "overlay": "oklch(2% 0.006 0 / 0.6)",
+
+    "shadow-color": "oklch(30% 0.02 0)",
+    "shadow-x": "1.5px",
+    "shadow-y": "2px",
+    "shadow-blur": "14px"
+  }
+}
