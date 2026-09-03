@@ -19,8 +19,8 @@
     "muted": "oklch(0.8125 0.0334 95.47)",
     "muted-foreground": "oklch(0.5211 0.0176 90.34)",
 
-    "card": "oklch(0.87 0.032 95)",
-    "card-foreground": "oklch(0.4058 0.0186 90.39)",
+    "card": "oklch(0.35 0.015 88)",
+    "card-foreground": "oklch(0.90 0.033 95)",
 
     "popover": "oklch(0.86 0.031 95)",
     "popover-foreground": "oklch(0.4058 0.0186 90.39)",
@@ -77,8 +77,8 @@
     "muted": "oklch(0.36 0.014 88)",
     "muted-foreground": "oklch(0.74 0.025 95)",
 
-    "card": "oklch(0.35 0.013 88)",
-    "card-foreground": "oklch(0.87 0.034 96)",
+    "card": "oklch(0.85 0.035 94)",
+    "card-foreground": "oklch(0.28 0.011 85)",
 
     "popover": "oklch(0.37 0.014 88)",
     "popover-foreground": "oklch(0.87 0.034 96)",
