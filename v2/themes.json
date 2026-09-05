@@ -98,14 +98,16 @@
       "author": "nukeop",
       "tags": [
         "dark",
-        "vibrant",
-        "popular"
+        "light",
+        "purple",
+        "pink",
+        "vibrant"
       ],
       "palette": [
-        "oklch(0.288 0.022 277.5)",
-        "oklch(0.742 0.149 301.9)",
-        "oklch(0.755 0.183 346.8)",
-        "oklch(0.871 0.220 148.0)"
+        "#282a36",
+        "#f8f8f2",
+        "#bd93f9",
+        "#ff79c6"
       ],
       "path": "v2/themes/dracula.json"
     },
@@ -117,13 +119,16 @@
       "tags": [
         "green",
         "warm",
+        "forest",
+        "earth-tone",
+        "low-contrast",
         "nature"
       ],
       "palette": [
-        "oklch(0.324 0.018 155.0)",
-        "oklch(0.773 0.091 125.8)",
-        "oklch(0.830 0.041 86.1)",
-        "oklch(0.749 0.063 185.5)"
+        "#2d353b",
+        "#d3c6aa",
+        "#a7c080",
+        "#83c092"
       ],
       "path": "v2/themes/everforest.json"
     },
@@ -152,13 +157,15 @@
       "author": "nukeop",
       "tags": [
         "retro",
-        "warm"
+        "warm",
+        "earth-tone",
+        "vim"
       ],
       "palette": [
-        "oklch(0.96 0.055 96)",
-        "oklch(0.28 0.000 263)",
-        "oklch(0.62 0.171 46)",
-        "oklch(0.34 0.007 48)"
+        "#282828",
+        "#ebdbb2",
+        "#fe8019",
+        "#fabd2f"
       ],
       "path": "v2/themes/gruvbox.json"
     },
@@ -187,7 +194,7 @@
     {
       "id": "nord",
       "name": "Nord",
-      "description": "Nord palette with its carateristic bluish accents",
+      "description": "The official Nord palette.",
       "author": "DarkWister",
       "tags": [
         "dark",
@@ -196,10 +203,10 @@
         "minimal"
       ],
       "palette": [
-        "oklch(0.6965 0.0591 248.69)",
-        "oklch(0.933 0.0104 261.79)",
-        "oklch(0.3244 0.0229 264.18)",
-        "oklch(0.90 0.008 342)"
+        "#2e3440",
+        "#d8dee9",
+        "#88c0d0",
+        "#a3be8c"
       ],
       "path": "v2/themes/nord.json"
     },
@@ -226,18 +233,19 @@
     {
       "id": "one-dark",
       "name": "One Dark",
-      "description": "Atom editor's iconic blue-tinted dark theme",
+      "description": "Atom editor's original dark theme.",
       "author": "nukeop",
       "tags": [
         "dark",
         "blue",
+        "atom",
         "editor"
       ],
       "palette": [
-        "oklch(0.292 0.016 264.3)",
-        "oklch(0.732 0.121 245.2)",
-        "oklch(0.694 0.163 318.0)",
-        "oklch(0.768 0.110 133.1)"
+        "#282c34",
+        "#abb2bf",
+        "#528bff",
+        "#c678dd"
       ],
       "path": "v2/themes/one-dark.json"
     },
@@ -305,14 +313,16 @@
       "author": "nukeop",
       "tags": [
         "dark",
+        "light",
         "muted",
-        "warm"
+        "warm",
+        "pastel"
       ],
       "palette": [
-        "oklch(0.213 0.025 291.1)",
-        "oklch(0.698 0.156 4.2)",
-        "oklch(0.836 0.054 21.1)",
-        "oklch(0.776 0.095 305.0)"
+        "#191724",
+        "#e0def4",
+        "#eb6f92",
+        "#31748f"
       ],
       "path": "v2/themes/rose-pine.json"
     },
@@ -339,20 +349,22 @@
     {
       "id": "solarized",
       "name": "Solarized",
-      "description": "Precision colors for machines and people",
+      "description": "Precision colors for machines and people.",
       "author": "Ethan Schoonover",
       "tags": [
         "dark",
         "light",
-        "green",
         "blue",
+        "green",
+        "yellow",
+        "cyan",
         "solarized"
       ],
       "palette": [
-        "oklch(0.267 0.049 219.8)",
-        "oklch(0.974 0.026 90.1)",
-        "oklch(0.615 0.139 244.9)",
-        "oklch(0.654 0.134 85.7)"
+        "#002b36",
+        "#839496",
+        "#268bd2",
+        "#b58900"
       ],
       "path": "v2/themes/solarized.json"
     },
