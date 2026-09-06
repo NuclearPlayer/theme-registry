@@ -231,6 +231,26 @@
       "path": "v2/themes/ocean-glow.json"
     },
     {
+      "id": "oceanbubble",
+      "name": "OceanBubble",
+      "description": "i took solarized and made it circles :0",
+      "author": "Beanie",
+      "tags": [
+        "dark",
+        "light",
+        "green",
+        "blue",
+        "solarized"
+      ],
+      "palette": [
+        "#002b36",
+        "#fdf6e3",
+        "#268bd2",
+        "#b58900"
+      ],
+      "path": "v2/themes/oceanbubble.json"
+    },
+    {
       "id": "one-dark",
       "name": "One Dark",
       "description": "Atom editor's original dark theme.",
