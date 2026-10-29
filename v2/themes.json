@@ -347,6 +347,25 @@
       "path": "v2/themes/purple-void.json"
     },
     {
+      "id": "raspberry-pop-rocks",
+      "name": "Raspberry Pop Rocks",
+      "description": "Sweet pixelated theme based on the 'Pixel' theme by 'aitorllj93'. Requires installation of the fonts 'Able 5' and 'supErphoniX2'.",
+      "author": "ScraftMike",
+      "tags": [
+        "minimal",
+        "monochrome",
+        "pink",
+        "pixel-art"
+      ],
+      "palette": [
+        "oklch(0.995 0.013 360)",
+        "oklch(0.914 0.052 345.4)",
+        "oklch(0.176 0.027 324.3)",
+        "oklch(0.239 0.065 330.8)"
+      ],
+      "path": "v2/themes/raspberry-pop-rocks.json"
+    },
+    {
       "id": "rose-pine",
       "name": "Rosé Pine",
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
