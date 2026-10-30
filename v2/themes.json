@@ -153,6 +153,29 @@
       "path": "v2/themes/everforest.json"
     },
     {
+      "id": "frankenstein",
+      "name": "Frankenstein",
+      "description": "Celebrate Halloween with this classic monster theme!",
+      "author": "nukeop",
+      "tags": [
+        "halloween",
+        "showcase",
+        "frankenstein",
+        "monster",
+        "green",
+        "lightning",
+        "gothic",
+        "wallpaper"
+      ],
+      "palette": [
+        "oklch(0.17 0.014 190)",
+        "oklch(0.72 0.11 135)",
+        "oklch(0.88 0.08 232)",
+        "oklch(0.76 0.1 82)"
+      ],
+      "path": "v2/themes/frankenstein.json"
+    },
+    {
       "id": "green-machine",
       "name": "Green Machine",
       "description": "The familiar dark music player with green accents",
@@ -188,6 +211,29 @@
         "#fabd2f"
       ],
       "path": "v2/themes/gruvbox.json"
+    },
+    {
+      "id": "jack-o-lantern",
+      "name": "Jack-o'-Lantern",
+      "description": "Celebrate Halloween with this classic pumpkin theme!",
+      "author": "nukeop",
+      "tags": [
+        "halloween",
+        "pumpkin",
+        "autumn",
+        "orange",
+        "candlelight",
+        "night",
+        "wallpaper",
+        "showcase"
+      ],
+      "palette": [
+        "oklch(0.73 0.18 48)",
+        "oklch(0.2 0.035 285)",
+        "oklch(0.92 0.11 98)",
+        "oklch(0.8 0.07 225)"
+      ],
+      "path": "v2/themes/jack-o-lantern.json"
     },
     {
       "id": "neon-violet-pink",
@@ -426,6 +472,31 @@
         "#b58900"
       ],
       "path": "v2/themes/solarized.json"
+    },
+    {
+      "id": "witching-hour",
+      "name": "Witching Hour",
+      "description": "Celebrate Halloween with this classic witch theme!",
+      "author": "nukeop",
+      "tags": [
+        "halloween",
+        "showcase",
+        "witch",
+        "tarot",
+        "moon",
+        "celestial",
+        "indigo",
+        "gold",
+        "art-nouveau",
+        "wallpaper"
+      ],
+      "palette": [
+        "oklch(0.14 0.06 272)",
+        "oklch(0.83 0.075 78)",
+        "oklch(0.4 0.12 276)",
+        "oklch(0.95 0.02 85)"
+      ],
+      "path": "v2/themes/witching-hour.json"
     },
     {
       "id": "yorha",
