@@ -40,6 +40,24 @@
       "path": "v2/themes/blacktheme.json"
     },
     {
+      "id": "butterwork",
+      "name": "butterwork",
+      "description": "Is it okay if i smear buttor on your papor? no? ill do it anyways. designed for light mode only",
+      "author": "Beanie",
+      "tags": [
+        "warm",
+        "pastel",
+        "floral"
+      ],
+      "palette": [
+        "#ffff9f",
+        "#ffee00",
+        "#e7e7e7",
+        "#fbf9fb"
+      ],
+      "path": "v2/themes/butterwork.json"
+    },
+    {
       "id": "claude",
       "name": "Claude",
       "description": "Warm, understated tones inspired by Anthropic's Claude",
