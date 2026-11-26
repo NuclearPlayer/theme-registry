@@ -231,6 +231,26 @@
       "path": "v2/themes/gruvbox.json"
     },
     {
+      "id": "gruvbox-dark",
+      "name": "Gruvbox Dark",
+      "description": "Gruvbox dark palette with a calm, flat style: thin borders, soft shadows, gentler corners and lighter font weights.",
+      "author": "leoric",
+      "tags": [
+        "dark",
+        "gruvbox",
+        "warm",
+        "retro",
+        "calm"
+      ],
+      "palette": [
+        "#282828",
+        "#ebdbb2",
+        "#d79921",
+        "#8ec07c"
+      ],
+      "path": "v2/themes/gruvbox-dark.json"
+    },
+    {
       "id": "jack-o-lantern",
       "name": "Jack-o'-Lantern",
       "description": "Celebrate Halloween with this classic pumpkin theme!",
